@@ -1,0 +1,91 @@
+{
+    "create": {
+      "title": "Guerra Mundial Z",
+      "overview": "Um ex-investigador da ONU precisa encontrar uma maneira de conter uma pandemia que transforma humanos em zumbis e ameaça extinguir a humanidade.",
+      "company": "Paramount Pictures",
+      "release_year": 2013,
+      "featured": true,
+      "cover": "/covers/movies-cover/wwz.png"
+    },
+  
+    "duplicate": {
+      "title": "Resident Evil: O Hóspede Maldito",
+      "overview": "Alice e um grupo de militares precisam conter um vírus mortal liberado por uma corporação, que transforma pessoas em zumbis dentro de um laboratório subterrâneo.",
+      "company": "Universal Pictures",
+      "release_year": 2002,
+      "featured": false,
+      "cover":  "/covers/movies-cover/resident-evil.jpg"
+    },
+
+    "madrugada_dos_mortos": {
+      "title": "Madrugada dos Mortos",
+      "overview": "Após uma praga transformar humanos em mortos-vivos, um grupo de sobreviventes se refugia em um shopping, lutando contra os zumbis e o desespero.",
+      "company": "Universal Pictures",
+      "release_year": 2004,
+      "featured": false,
+      "cover": "/images/madrugada_dos_mortos.png"
+    },
+  
+    "exterminio": {
+      "title": "Extermínio",
+      "overview": "Após um vírus devastar o Reino Unido, um grupo de sobreviventes tenta encontrar um local seguro enquanto enfrenta hordas de infectados sedentos de sangue.",
+      "company": "Fox Searchlight Pictures",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "/images/exterminio.png"
+    },
+  
+    "zumbilandia": {
+      "title": "Zumbilândia",
+      "overview": "Em um mundo dominado por zumbis, um grupo de sobreviventes excêntricos segue regras bem-humoradas para tentar permanecer vivos.",
+      "company": "Columbia Pictures",
+      "release_year": 2009,
+      "featured": false,
+      "cover": "/images/zumbilandia.png"
+    },
+  
+    "invasao_zumbi": {
+      "title": "Invasão Zumbi",
+      "overview": "Durante uma viagem de trem na Coreia do Sul, os passageiros precisam sobreviver a um surto zumbi que se espalha rapidamente.",
+      "company": "Next Entertainment World",
+      "release_year": 2016,
+      "featured": false,
+      "cover": "/images/invasao_zumbi.png"
+    },
+  
+    "meu_namorado_e_um_zumbi": {
+      "title": "Meu Namorado é um Zumbi",
+      "overview": "Um zumbi desenvolve sentimentos por uma humana, desencadeando uma improvável história de amor em meio ao apocalipse.",
+      "company": "Summit Entertainment",
+      "release_year": 2013,
+      "featured": false,
+      "cover": "/images/meu_namorado_e_um_zumbi.png"
+    },
+  
+    "re_animator": {
+      "title": "Re-Animator",
+      "overview": "Um estudante de medicina cria uma fórmula capaz de reanimar os mortos, gerando consequências desastrosas.",
+      "company": "Empire Pictures",
+      "release_year": 1985,
+      "featured": false,
+      "cover": "/images/re_animator.png"
+    },
+  
+    "planeta_terror": {
+      "title": "Planeta Terror",
+      "overview": "Após um vazamento de gás transformar pessoas em zumbis, um grupo de sobreviventes lidera uma luta insana pela sobrevivência.",
+      "company": "Dimension Films",
+      "release_year": 2007,
+      "featured": false,
+      "cover": "/images/planeta_terror.png"
+    },
+  
+    "a_noite_dos_mortos_vivos": {
+      "title": "A Noite dos Mortos-Vivos",
+      "overview": "O clássico que definiu o gênero: estranhos se refugiam em uma casa enquanto mortos-vivos cercam o local.",
+      "company": "Continental Distributing",
+      "release_year": 1968,
+      "featured": false,
+      "cover": "/images/a_noite_dos_mortos_vivos.png"
+    }
+  }  
